@@ -1,0 +1,11 @@
+{
+	"name": "GarageBand",
+	"id": "com.apple.garageband10",
+	"bundle": [
+	    "com.apple.garageband10"
+	],
+	"connection": [],
+	"modes": [],
+	"additionalActions": [ "midi" ],
+	"exclusive": "mac"
+}
