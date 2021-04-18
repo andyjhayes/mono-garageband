@@ -1,2 +1,1 @@
-# mono-garageband
-Monogram + Apple GarageBand (Unofficial)
+# Monogram + Apple GarageBand (Unofficial)
