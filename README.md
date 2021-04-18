@@ -6,7 +6,7 @@ This is a collection of Monogram module presets for GarageBand.
 
 - Mac (OS version 10.12 or later required, 10.13 or later recommended)
 - [Monogram Creator](https://monogramcc.com/download/) (Version 4.1 or later recommended)
-- [Monogram Creative Console](https://monogramcc.com/) (note:  Palette Gear core modules are _not_ recommended. Palette Gear dial, button, or slider modules _must_ be connected to a Monogram core module to work as intended.)
+- [Monogram Creative Console](https://monogramcc.com/) (note:  Palette Gear dial, button, or slider modules _must_ be connected to a Monogram core module to work as intended.)
 - [GarageBand](https://www.apple.com/ca/mac/garageband/) (Version 10.0 or later required, 10.4 or later recommended)
 
 ---
