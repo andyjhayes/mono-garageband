@@ -29,6 +29,7 @@ This is purely a homebrewed set of Monogram presets and MIDI/KBSC assignments fo
 - It isn't developed or endorsed by either company. 
 - It's provided with no warranty and it may not work on your system.
 - Future GarageBand or Monogram updates might break it.
+- It's licensed under <a href="https://opensource.org/licenses/MIT">MIT</a>. Pull requests and issues are welcome :)
 
 ### Known Limitations ###
 
